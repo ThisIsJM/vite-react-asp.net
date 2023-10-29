@@ -1,0 +1,1 @@
+C:\Users\dell\Desktop\Files\FullStack Development\dotnet\react-asp-template\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
